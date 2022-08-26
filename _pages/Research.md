@@ -13,7 +13,7 @@ header:
 
 My interest is on the mathematical and numerical analysis of PDEs including phase field models, free boundary problems and fluid models. This is my [research statement.](file/research statement.pdf) 
 
----
+-----
 
 ## Publications and preprints
 
@@ -35,7 +35,6 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 
 #### preprints
 
-preprints
 
  1. Energy stable semi-implicit schemes for Allen-Cahn and fractional Cahn-Hilliard equations, [preprint](file/semi-implicit 7.pdf). (47 pages)
 
@@ -48,7 +47,8 @@ preprints
  5. Energy stability and convergence of Strang splitting method for Cahn-Hilliard equation, joint with D. Li and C. Quan, preprint.
  
  
- ---
+ -----
+ 
  
  ## Academic activities
  
