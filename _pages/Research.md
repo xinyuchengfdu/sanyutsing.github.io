@@ -13,7 +13,6 @@ header:
 
 My interest is on the mathematical and numerical analysis of PDEs including phase field models, free boundary problems and fluid models. This is my [research statement.](/file/research_statement.pdf) 
 
------
 
 ## Publications and preprints
 
@@ -35,7 +34,6 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 
 #### preprints
 
-
  1. Energy stable semi-implicit schemes for Allen-Cahn and fractional Cahn-Hilliard equations, [preprint](/file/semi_implicit7.pdf). (47 pages)
 
  2. On a Sinc-type MBE model, joint with D. Li, C. Quan and W. Yang, submitted. ArXiv:2106.16193.
@@ -45,7 +43,6 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
  4. Stability analysis of BDF methods for gradient flows with $L^2$-bounded nonlinearity, joint with D. Li, C. Quan and W. Yang, preprint.
 
  5. Energy stability and convergence of Strang splitting method for Cahn-Hilliard equation, joint with D. Li and C. Quan, preprint.
- ---
  
 
  
@@ -53,7 +50,7 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
  
  #### talks:
 
-* CSIAM 2022 @ Guangzhou, Guangdong, China                                                                     2022/09
+* CSIAM 2022 @ Guangzhou, Guangdong, China                                                               2022/09
 
 * Workshop on Analysis and PDE @ Tianjin Center for Applied Mathematics (TCAM)       2019/08
 
