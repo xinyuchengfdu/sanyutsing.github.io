@@ -1,69 +1,31 @@
 ---
-title: 'Rafael Cartenet'
-layout: single
+title: 'Xinyu Cheng 程新宇'
+layout: home #single
 author_profile: true
-excerpt: 'Data Engineer based in Shanghai. Looking for new career opportunities.'
+excerpt: ''
 header:
-  overlay_image: /images/paris.jpg
+  overlay_image: /images/Mathematics_Building_UBC_01.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-# About me
+## About me
 
-I'm currently working remotely for [Xco-Analytics](https://www.colonnagroup.fr/xco-analytics/) in Shanghai, as a full-time **Lead Data Engineer**, since February 2021.
 
----
-
-*As a problem-solving enthusiast, I have always been eager to meet new technical challenges, where I can learn some new things and feed my curiosity.  
-I got myself into Data Science early in my education and had the chance to get my hands on all kinds of data, from sequential to spatial, images, audio signals, BI data etc.  
-As an R&D Engineer, I love to put forward my technical and analytical skills, tackle original problems and learn every day.*
-
-You can check about my different projects on my [projects page](https://rafaelcartenet.github.io/projects/)
-
-## Previous work experiences
-
-- **Machine Learning R&D Engineer** - Shanghai:  
-  I completed my end-of-study internship in Shanghai as a Machine Learning R&D Engineer for a sino-french startup called **[Mediasia-Labs](http://mediasia-labs.com)**. I have been working on *Deep-Learning* and *Advanced Algorithms* applied to Pronunciation Evaluation for language learners.
-
-- **Research Assistant** - Daejon (South-Korea):  
-  I have been a volunteer in a Research Laboratory dedicated to Artificial Intelligence **[AIM](http://slsp.kaist.ac.kr/xe/)** where I worked on video classification for the CVPR2017 workshop, especially working on *Attention Gated LSTM Cell*, in TensorFlow.
-
-- **Software Engineer Intern** - Paris:  
-  I have been an intern at **[Aerow](https://www.aerow.group/en/home/)** in Paris, as a Software Engineer and integrator. I have been developing a simple OCR for bankcheques CMC7 code, using simple *Machine-Learning* techniques.
-
-## Education
-
-- **Graduate Exchange Program** - Daejeon (South-Korea):  
-  I studied abroad for a year in the top university of KAIST in South-Korea, where I specialized in *Machine-Learning*. I completed my initial background with skills in *Deep-Learning*, NLP, Computer Vision as well as Search-Based Algorithms.
-
-- **Master Of Engineering** - Rouen (France):  
-  I graduated from INSA Rouen Normandy with a Master of Engineering in April 2018, majoring in *Applied Mathematics* and *Computer Science*.
+I am a postdoc fellow at [the School of Mathematical Sciences at Fudan University](https://math.fudan.edu.cn/), Shanghai, China,  under the host of Prof. [Lei, Zhen](https://math.fudan.edu.cn/fa/43/c30607a326211/page.htm).
 
 ---
 
-## Programming Skills
+I received my Phd degree and Msc degree in Mathematics from [the University of British Columbia](https://www.math.ubc.ca/), Vancouver, Canada, under the supervision of Prof. [Li, Dong](https://icm.sustech.edu.cn/lidong/) and Prof. [Wetton, Brian](https://personal.math.ubc.ca/~wetton/).
 
-Proficient with: **Python, C/C++, Tensorflow, Apache Spark, Torch7, Scikit-Learn, Matlab, MongoDB, SQL, bash, Git.**
+---
 
-Familiar with: **Java**
+I received my Bsc degree in Mathematics (with Honors, First Class) in 2015 from [the Chinese University of Hong Kong](https://www.math.cuhk.edu.hk/), Hong Kong, China.
 
-## Languages
+---
 
-| Language | Level  |
-|----------|--------|
-| English  | Fluent |
-| French   | Fluent |
-| Mandarin | Intermediate (preparing HSK4) |
-| Spanish  | Proficient |
+I graduated from Nantong Middle School of Jiangsu Province （江苏省南通中学）and was ranked top 200 in the entrance examination （高考） in Jiangsu Province.
 
-## CV
+---
 
-Find attached the PDF version of my CVs:  
-*English version*: [CV]({{ site.url }}/download/CV_english.pdf)  
-*French version*: [CV]({{ site.url }}/download/CV_french.pdf)
+I was born in1993, in Nantong City, Jiangsu Province (江苏省南通市); I can speak Mandarin, English, Cantonese and Nantong dialect (FYI: There are 6 different dialects in the greater Nantong area and I can understand most of them but can only speak Nantonese, i.e. 南通话). 
 
-Update: 2020/01/13
-
-## Contact me
-
-For any inquires, you can reach me via email: **_[rafael.cartenet@gmail.com](mailto:rafael.cartenet@gmail.com)_**
