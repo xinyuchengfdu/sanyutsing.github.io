@@ -11,7 +11,7 @@ header:
 
 ## Research Interest
 
-My interest is on the mathematical and numerical analysis of PDEs including phase field models, free boundary problems and fluid models. This is my [research statement.](file/research_statement.pdf) 
+My interest is on the mathematical and numerical analysis of PDEs including phase field models, free boundary problems and fluid models. This is my [research statement.](/file/research_statement.pdf) 
 
 -----
 
@@ -36,7 +36,7 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 #### preprints
 
 
- 1. Energy stable semi-implicit schemes for Allen-Cahn and fractional Cahn-Hilliard equations, [preprint](file/semi_implicit7.pdf). (47 pages)
+ 1. Energy stable semi-implicit schemes for Allen-Cahn and fractional Cahn-Hilliard equations, [preprint](/file/semi_implicit7.pdf). (47 pages)
 
  2. On a Sinc-type MBE model, joint with D. Li, C. Quan and W. Yang, submitted. ArXiv:2106.16193.
 
