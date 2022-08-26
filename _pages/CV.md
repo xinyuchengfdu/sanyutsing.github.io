@@ -1,6 +1,6 @@
 ---
 title: "Résumé 简历"
-layout: home
+layout: single
 permalink: /CV/
 author_profile: true
 excerpt: 'Here is my education background and other things related'
