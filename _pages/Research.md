@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'Research 研究'
 layout: single
 permalink: /Research/
 author_profile: true
