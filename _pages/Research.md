@@ -44,17 +44,14 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 
  5. Energy stability and convergence of Strang splitting method for Cahn-Hilliard equation, joint with D. Li and C. Quan, preprint.
  
+## Academic activities
+#### talks
 
- 
- ## Academic activities
- 
- #### talks:
++ CSIAM 2022 @ Guangzhou, Guangdong, China                                                               2022/09
 
-* CSIAM 2022 @ Guangzhou, Guangdong, China                                                               2022/09
++ Workshop on Analysis and PDE @ Tianjin Center for Applied Mathematics (TCAM)       2019/08
 
-* Workshop on Analysis and PDE @ Tianjin Center for Applied Mathematics (TCAM)       2019/08
-
-* SIAM Conference on Applications of Dynamical Systems @ Snowbird, UT, US                2019/05
++ SIAM Conference on Applications of Dynamical Systems @ Snowbird, UT, US                2019/05
 
 
 
