@@ -55,7 +55,7 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 
 
 
-#### visiting:
+#### visiting
 
 * SUSTech, Shenzhen, China                                                                                         2021/10-2022/01
 
