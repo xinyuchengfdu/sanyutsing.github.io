@@ -45,10 +45,9 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
  4. Stability analysis of BDF methods for gradient flows with $L^2$-bounded nonlinearity, joint with D. Li, C. Quan and W. Yang, preprint.
 
  5. Energy stability and convergence of Strang splitting method for Cahn-Hilliard equation, joint with D. Li and C. Quan, preprint.
+ ---
  
- 
- -----
- 
+
  
  ## Academic activities
  
