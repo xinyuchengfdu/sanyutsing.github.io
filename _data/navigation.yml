@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Projects"
-    url: /projects/
-  - title: "Blog"
-    url: /blog/
+  - title: "CV 简历"
+    url: /CV/
+  - title: "Research 研究"
+    url: /Research/
   - title: "About"
-    url: https://rafaelcartenet.github.io
+    url: https://sanyutsing.github.io
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Collections"
