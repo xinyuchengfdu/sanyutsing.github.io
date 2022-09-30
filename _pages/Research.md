@@ -44,6 +44,8 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 
  5. Energy stability and convergence of Strang splitting method for Cahn-Hilliard equation, joint with D. Li and C. Quan, preprint.
  
+ 6. On the global well-posedness and scattering of the 3D Klein-Gordon-Zakharov system, joint with J. Xu, preprint.
+ 
 ## Academic activities
 #### talks
 
