@@ -48,6 +48,9 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 
  7. On the global well-posedness and scattering of the 3D Klein-Gordon-Zakharov system, joint with J. Xu, preprint.
  
+ 8. Localization for general Helmholtz, joint with D. Li and W. Yang, arXiv:2210.03309.
+
+ 
 ## Academic activities
 #### talks
 
