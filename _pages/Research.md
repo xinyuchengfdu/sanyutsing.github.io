@@ -46,7 +46,7 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
  
  6. Global well-posedness for 2D quasilinear wave equations with non-compactly supported initial data, joint with D. Li, Y. Lu and J. Xu, preprint. 
 
- 7. On the global well-posedness and scattering of the 3D Klein-Gordon-Zakharov system, joint with J. Xu, preprint.
+ 7. On the global well-posedness and scattering of the 3D Klein-Gordon-Zakharov system, joint with J. Xu, submitted. ArXiv:2210.13786.
  
  8. Localization for general Helmholtz, joint with D. Li and W. Yang, arXiv:2210.03309.
 
