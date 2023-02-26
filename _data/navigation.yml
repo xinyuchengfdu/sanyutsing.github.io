@@ -6,6 +6,8 @@ main:
     url: /Research/
   - title: "Teaching 教学"
     url: /Teaching/
+  - title: "Contact 联系方式"
+    url: /Contact/
   - title: "About"
     url: https://sanyutsing.github.io
   # - title: "About"
