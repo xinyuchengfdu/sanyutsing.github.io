@@ -3,7 +3,7 @@ title: 'Teaching 教学'
 layout: single
 permalink: /Teaching/
 author_profile: true
-excerpt: 'teaching'
+excerpt: 'some teaching materials/teaching experiences'
 header:
   overlay_image: /images/Mathematics_Building_UBC_01.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
