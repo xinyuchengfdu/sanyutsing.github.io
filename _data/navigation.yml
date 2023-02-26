@@ -4,6 +4,8 @@ main:
     url: /CV/
   - title: "Research 研究"
     url: /Research/
+  - title:"Teaching 教学”
+    url: /Teaching/
   - title: "About"
     url: https://sanyutsing.github.io
   # - title: "About"
