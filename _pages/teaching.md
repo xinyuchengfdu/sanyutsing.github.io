@@ -14,8 +14,7 @@ header:
 
 
 
-## This is my [research statement.](/file/research_statement.pdf) 
-This is my [teaching statement.](/file/teaching_statement.pdf)
+## This is my [teaching statement.](/file/teaching_statement.pdf)
 
 ## Previous teaching expierences:
 
