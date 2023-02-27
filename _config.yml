@@ -141,7 +141,9 @@ author:
     - label: "google_scholar"
       icon: #"fab fa-fw fa-github"
       url: "https://scholar.google.com/citations?user=J-yb-60AAAAJ&hl=zh-CN"
-      
+    - label: "Fudan University"
+      icon: "fa fa-fw fa-university"
+      url: "https://www.fudan.edu.cn/en/"
     
 # Reading Files
 include:
