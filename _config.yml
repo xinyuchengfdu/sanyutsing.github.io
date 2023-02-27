@@ -133,14 +133,15 @@ author:
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   links:
     - label: "researchgate"
-      icon: #"fas fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://www.researchgate.net/profile/Xinyu-Cheng-4"
     - label: "arXiv "
-      icon: #"fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-archive"
       url: "https://arxiv.org/a/cheng_x_1.html"
     - label: "google_scholar"
       icon: #"fab fa-fw fa-github"
       url: "https://scholar.google.com/citations?user=J-yb-60AAAAJ&hl=zh-CN"
+      
     
 # Reading Files
 include:
