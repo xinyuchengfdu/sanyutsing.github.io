@@ -37,9 +37,9 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 
  1. Energy stable semi-implicit schemes for Allen-Cahn and fractional Cahn-Hilliard equations, [preprint](/file/semi_implicit 8.pdf). (47 pages)
 
- 2. On a Sinc-type MBE model, joint with D. Li, C. Quan and W. Yang, submitted. ArXiv:2106.16193.
+ 2. On a Sinc-type MBE model, joint with D. Li, C. Quan and W. Yang, submitted. [ArXiv:2106.16193.](https://arxiv.org/abs/2106.16193) 
 
- 3. Uniform Boundedness of Highest Norm for 2D Quasilinear Wave,  joint with D. Li and J. Xu, submitted. ArXiv:2104.10019.
+ 3. Uniform Boundedness of Highest Norm for 2D Quasilinear Wave,  joint with D. Li and J. Xu, submitted. [ArXiv:2104.10019.](https://arxiv.org/abs/2104.10019)
 
  4. Stability analysis of BDF methods for gradient flows with $L^2$-bounded nonlinearity, joint with D. Li, C. Quan and W. Yang, preprint.
 
@@ -47,9 +47,9 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
  
  6. Global well-posedness for 2D quasilinear wave equations with non-compactly supported initial data, joint with D. Li, Y. Lu and J. Xu, preprint. 
 
- 7. On the global well-posedness and scattering of the 3D Klein-Gordon-Zakharov system, joint with J. Xu, submitted. ArXiv:2210.13786.
+ 7. On the global well-posedness and scattering of the 3D Klein-Gordon-Zakharov system, joint with J. Xu, submitted. [ArXiv:2210.13786.](https://arxiv.org/abs/2210.13786)
  
- 8. Localization for general Helmholtz, joint with D. Li and W. Yang, arXiv:2210.03309.
+ 8. Localization for general Helmholtz, joint with D. Li and W. Yang, [arXiv:2210.03309.](https://arxiv.org/abs/2210.03309)
 
  
 ## Academic activities
