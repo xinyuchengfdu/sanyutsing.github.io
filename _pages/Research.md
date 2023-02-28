@@ -28,7 +28,7 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 
  5. Global wellposedness for 2D quasilinear wave without Lorentz, joint with D. Li, J. Xu and D. Zha, Dynam. Part. Differ. Eq.,  2022,  19(2) ,  123-140.
 
- 6. On the equivalence of classical Helmoltz equation and fractional Helmoltz equation with arbitrary order, joint with D. Li and W. Yang , to appear in Comm. Contemp. Math.
+ 6. On the equivalence of classical Helmholtz equation and fractional Helmholtz equation with arbitrary order, joint with D. Li and W. Yang , to appear in Comm. Contemp. Math.
 
  7. Equivalent formulations of the oxygen diffusion problem and other implicit free boundary value problems and implications for numerical approximation, joint with Z. Fu and B. Wetton, Siam J. Appl. Math., 2023, 83(1), 52-78.
 
