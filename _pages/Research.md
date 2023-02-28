@@ -18,19 +18,19 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 
 #### published
 
- 1. On the Spectral Gap of a Square Distance Matrix, joint with D. Li, D. Shirokoff and B. Wetton, J. Stat. Phys., 2017, 166(3-4), 1029--1035.
+ 1. On the Spectral Gap of a Square Distance Matrix, joint with D. Li, D. Shirokoff and B. Wetton, J. Stat. Phys., 2017, 166(3-4), 1029--1035. [pdf](/file/paper/CLSW18.pdf)
 
- 2. Asymptotic Behaviour of Time Stepping Methods for Phase Field Models, joint with D. Li, K. Promislow and B. Wetton, J. Sci. Comput., 2021, 86(3), 1--34. 
+ 2. Asymptotic Behaviour of Time Stepping Methods for Phase Field Models, joint with D. Li, K. Promislow and B. Wetton, J. Sci. Comput., 2021, 86(3), 1--34. [pdf](/file/paper/CLPW21.pdf)
 
- 3. On a parabolic Sine-Gordon model, joint with D. Li, C. Quan and W. Yang, Numerical Mathematics: Theory, Methods and Applications., 2021, 14(4), 1068--1084.
+ 3. On a parabolic Sine-Gordon model, joint with D. Li, C. Quan and W. Yang, Numerical Mathematics: Theory, Methods and Applications., 2021, 14(4), 1068--1084.[pdf](/file/paper/CLQY-2021.pdf)
 
- 4. Non-uniqueness of stationary weak solutions to the surface quasi-geostrophic  equations, joint with H. Kwon and D. Li, Comm. Math. Phys., 2021, 388 (3), 1281-1295.
+ 4. Non-uniqueness of stationary weak solutions to the surface quasi-geostrophic  equations, joint with H. Kwon and D. Li, Comm. Math. Phys., 2021, 388 (3), 1281-1295.[pdf](/file/paper/CKL-CMP21.pdf)
 
- 5. Global wellposedness for 2D quasilinear wave without Lorentz, joint with D. Li, J. Xu and D. Zha, Dynam. Part. Differ. Eq.,  2022,  19(2) ,  123-140.
+ 5. Global wellposedness for 2D quasilinear wave without Lorentz, joint with D. Li, J. Xu and D. Zha, Dynam. Part. Differ. Eq.,  2022,  19(2) , 123-140. [pdf](/file/paper/CLLX22.pdf)
 
- 6. On the equivalence of classical Helmholtz equation and fractional Helmholtz equation with arbitrary order, joint with D. Li and W. Yang , to appear in Comm. Contemp. Math.
+ 6. On the equivalence of classical Helmholtz equation and fractional Helmholtz equation with arbitrary order, joint with D. Li and W. Yang , to appear in Comm. Contemp. Math.[pdf](/file/paper/CLY22.pdf)
 
- 7. Equivalent formulations of the oxygen diffusion problem and other implicit free boundary value problems and implications for numerical approximation, joint with Z. Fu and B. Wetton, Siam J. Appl. Math., 2023, 83(1), 52-78.
+ 7. Equivalent formulations of the oxygen diffusion problem and other implicit free boundary value problems and implications for numerical approximation, joint with Z. Fu and B. Wetton, Siam J. Appl. Math., 2023, 83(1), 52-78.[pdf](/file/paper/CFW23.pdf)
 
 
 #### preprints
