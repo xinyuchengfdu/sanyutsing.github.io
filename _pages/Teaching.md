@@ -11,6 +11,7 @@ header:
 
 ## I am teaching two tutorial classes on Linear Algebra II in 2022-2023 term 2.
 + [EX1](/file/teaching/EX1.pdf), [Ans1](/file/teaching/Ans1.pdf)
++ [EX2](/file/teaching/EX2.pdf)
 
 
 
