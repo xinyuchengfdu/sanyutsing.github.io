@@ -43,6 +43,8 @@ Advisers: Prof. Li, Dong & Prof. Wetton, Brian
 
 Areas: Computational & Applied Maths; Enrichment Stream in Maths.
 
+Project on the [hyperbolic geometry](/file/hyperbolic geometry.pdf) advised by Prof. Wu, Zhongtao.
+
 --------------------------------
 
 
