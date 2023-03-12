@@ -17,7 +17,8 @@ header:
 
 Area: Analysis, dynamics and numerics in PDEs
 
-Thesis: <u>Analytical and numerical results for phase field, implicit free boundary, and fluid models</u>
+Thesis: [Analytical and numerical results for phase field, implicit free boundary, and fluid models.](/file/ubc_2021_november_cheng_xinyu.pdf)
+
 
 Advisers: Prof. Li, Dong & Prof. Wetton, Brian
 
@@ -30,7 +31,7 @@ Advisers: Prof. Li, Dong & Prof. Wetton, Brian
 
 Area: Analysis, dynamics and numerics in PDEs
 
-Thesis: <u>On the Stability of a Semi-Implicit Scheme of Cahn-Hilliard Type Equations. </u>
+Thesis: [On the Stability of a Semi-Implicit Scheme of Cahn-Hilliard Type Equations.](/file/ubc_2017_september_cheng_xinyu.pdf)
 
 Advisers: Prof. Li, Dong & Prof. Wetton, Brian
 
