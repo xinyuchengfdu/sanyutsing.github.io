@@ -131,7 +131,7 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  links:
+  links            :
     - label: "researchgate"
       icon: "fas fa-fw fa-link"
       url: "https://www.researchgate.net/profile/Xinyu-Cheng-4"
