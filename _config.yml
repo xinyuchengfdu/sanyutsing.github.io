@@ -131,19 +131,22 @@ author:
   #weibo            :
   #xing             :
   #youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-   links            :
-    - label: "researchgate"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.researchgate.net/profile/Xinyu-Cheng-4" 
-    - label: "arXiv"
-      icon: "fab fa-fw fa-link"   #"fab fa-fw fa-archive"
-      url: "https://arxiv.org/a/cheng_x_1.html"
-    - label: "google_scholar"
-      icon: "fab fa-fw fa-link"
-      url: "https://scholar.google.com/citations?user=J-yb-60AAAAJ&hl=zh-CN"
-    - label: "Fudan University"
-      icon: "fa fa-fw fa-university"
-      url: "https://www.fudan.edu.cn/en/"
+  researchgate      : "https://www.researchgate.net/profile/Xinyu-Cheng-4" 
+  arXiv             :  "https://arxiv.org/a/cheng_x_1.html"
+  google_scholar    : "https://scholar.google.com/citations?user=J-yb-60AAAAJ&hl=zh-CN"
+  Fudan University  : "https://www.fudan.edu.cn/en/"
+  #  - label: "researchgate"
+  #    icon: "fas fa-fw fa-link"
+  #    url: "https://www.researchgate.net/profile/Xinyu-Cheng-4" 
+  #  - label: "arXiv"
+  #    icon: "fab fa-fw fa-link"   #"fab fa-fw fa-archive"
+  #    url: "https://arxiv.org/a/cheng_x_1.html"
+  #  - label: "google_scholar"
+  #    icon: "fab fa-fw fa-link"
+  #    url: "https://scholar.google.com/citations?user=J-yb-60AAAAJ&hl=zh-CN"
+  #  - label: "Fudan University"
+  #    icon: "fa fa-fw fa-university"
+  #    url: "https://www.fudan.edu.cn/en/"
     
 # Reading Files
 include:
