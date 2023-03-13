@@ -108,42 +108,39 @@ author:
   email            : "xycheng AT fudan DOT edu DOT cn"
   uri              :
   home             : "https://sites.google.com/view/xycheng" # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  #bitbucket        :
+  #codepen          :
+  #dribbble         :
+  #flickr           :
+  #facebook         :
+  #foursquare       :
   github           : "sanyutsing"
-  gitlab           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : #"rafaelcartenet" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : "c" # (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  links            :
+  #gitlab           :
+  #google_plus      :
+  #keybase          :
+  #instagram        :
+  #lastfm           :
+  #linkedin         : #"rafaelcartenet" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  #pinterest        :
+  #soundcloud       :
+  #stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam             : "c" # (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  #tumblr           :
+  #twitter          :
+  #vine             :
+  #weibo            :
+  #xing             :
+  #youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+   links            :
     - label: "researchgate"
       icon: "fas fa-fw fa-link"
-      url: "https://www.researchgate.net/profile/Xinyu-Cheng-4"
-      
+      url: "https://www.researchgate.net/profile/Xinyu-Cheng-4" 
     - label: "arXiv"
       icon: "fab fa-fw fa-link"   #"fab fa-fw fa-archive"
       url: "https://arxiv.org/a/cheng_x_1.html"
-      
     - label: "google_scholar"
       icon: "fab fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=J-yb-60AAAAJ&hl=zh-CN"
-      
     - label: "Fudan University"
       icon: "fa fa-fw fa-university"
       url: "https://www.fudan.edu.cn/en/"
