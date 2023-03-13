@@ -136,8 +136,8 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://www.researchgate.net/profile/Xinyu-Cheng-4"
       
-    - label: "arXiv "
-      icon: "fab fa-fw fa-archive"
+    - label: "arXiv"
+      icon: "fab fa-fw fa-link"   #"fab fa-fw fa-archive"
       url: "https://arxiv.org/a/cheng_x_1.html"
       
     - label: "google_scholar"
