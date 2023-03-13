@@ -108,19 +108,7 @@ author:
   email            : "xycheng AT fudan DOT edu DOT cn"
   #uri              :
   home             : "https://sites.google.com/view/xycheng" # null (default), "absolute or relative url to link to author home"
-  links :
-     - label: "researchgate"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.researchgate.net/profile/Xinyu-Cheng-4" 
-    - label: "arXiv"
-      icon: "fab fa-fw fa-link"   #"fab fa-fw fa-archive"
-      url: "https://arxiv.org/a/cheng_x_1.html"
-    - label: "google_scholar"
-      icon: "fab fa-fw fa-link"
-      url: "https://scholar.google.com/citations?user=J-yb-60AAAAJ&hl=zh-CN"
-    - label: "Fudan University"
-      icon: "fa fa-fw fa-university"
-      url: "https://www.fudan.edu.cn/en/"
+ 
       
   #bitbucket        :
   #codepen          :
