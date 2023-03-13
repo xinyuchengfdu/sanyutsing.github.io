@@ -106,9 +106,8 @@ author:
   bio              : "PDE/Analysis/Numerics"
   location         : "Shanghai - China"
   email            : "xycheng AT fudan DOT edu DOT cn"
-  uri              :
+  #uri              :
   home             : "https://sites.google.com/view/xycheng" # null (default), "absolute or relative url to link to author home"
-  
   links :
      - label: "researchgate"
       icon: "fas fa-fw fa-link"
@@ -187,6 +186,7 @@ exclude:
   - log
   - node_modules
   - package.json
+  - package-lock.json
   - Rakefile
   - README
   - tmp
