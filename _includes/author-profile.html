@@ -260,7 +260,7 @@
         {% if author.researchgate %}
         <li>
           <a href="https://www.researchgate.net/profile/{{ author.researchgate }}" itemprop="sameAs">
-            <i class="fa-brands fa-researchgate" aria-hidden="true"></i> Researchgate
+            <i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> Researchgate
           </a>
         </li>
       {% endif %}
@@ -275,7 +275,7 @@
       
       {% if author.google_scholar %}
         <li>
-          <a href="https://arxiv.org/a/{{ author.google_scholar }}" itemprop="sameAs">
+          <a href="https://scholar.google.com/{{ author.google_scholar }}" itemprop="sameAs">
             <i class="fab fa-google" aria-hidden="true"></i> Google Scholar
           </a>
         </li>
