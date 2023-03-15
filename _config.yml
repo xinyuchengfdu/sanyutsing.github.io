@@ -133,6 +133,15 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  researchgate     : "Xinyu-Cheng-4"
+  arXiv            : "cheng_x_1"
+  google_scholar   : "citations?user=J-yb-60AAAAJ&hl=zh-CN"
+  
+  links:
+  -label: "Fudan University"
+   icon: "fa fa-fw fa-university"
+   url: "https://www.fudan.edu.cn/en/"
+  
  
   #  - label: "researchgate"
   #    icon: "fas fa-fw fa-link"
