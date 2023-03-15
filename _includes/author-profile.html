@@ -256,6 +256,33 @@
           </a>
         </li>
       {% endif %}
+      
+        {% if author.researchgate %}
+        <li>
+          <a href="https://www.researchgate.net/profile/{{ author.researchgate }}" itemprop="sameAs">
+            <i class="fa-brands fa-researchgate" aria-hidden="true"></i> Researchgate
+          </a>
+        </li>
+      {% endif %}
+      
+       {% if author.arXiv %}
+        <li>
+          <a href="https://arxiv.org/a/{{ author.arXiv }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-archive" aria-hidden="true"></i> arXiv
+          </a>
+        </li>
+      {% endif %}
+      
+      {% if author.google_scholar %}
+        <li>
+          <a href="https://arxiv.org/a/{{ author.google_scholar }}" itemprop="sameAs">
+            <i class="fab fa-google" aria-hidden="true"></i> Google Scholar
+          </a>
+        </li>
+      {% endif %}
+      
+      
+      
 
       {% include author-profile-custom-links.html %}
     </ul>
