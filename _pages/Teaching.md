@@ -13,7 +13,8 @@ header:
 + [EX1](/file/teaching/EX1.pdf), [Ans1](/file/teaching/Ans1.pdf)
 + [EX2](/file/teaching/EX2.pdf), [Ans2](/file/teaching/Ans2.pdf)
 + [EX3](/file/teaching/EX3.pdf), [Ans3](/file/teaching/Ans3.pdf)
-+ [EX4](/file/teaching/EX3.pdf), [Ans4](/file/teaching/Ans4.pdf)
++ [EX4](/file/teaching/EX4.pdf), [Ans4](/file/teaching/Ans4.pdf)
++ [EX5](/file/teaching/EX5.pdf), [Ans5](/file/teaching/Ans5.pdf)
 
 
 
