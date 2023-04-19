@@ -53,42 +53,42 @@ Project on the [hyperbolic geometry](/file/hyperbolic_geometry.pdf) advised by P
 ##  Honors and awards
 
 #### Fudan University
-+ China Postdoctoral Science Special Fund(In-Station)    【博士后基金（站中）】         <p align="right">2022</p>     
++ China Postdoctoral Science Special Fund(In-Station)    【博士后基金（站中）】         2022  
             
-+ China Postdoctoral Science Fund   【博士后基金（面上）】                              <p align="right">2022</p>          
++ China Postdoctoral Science Fund   【博士后基金（面上）】                              2022
 
-+ International Postdoctoral Exchange Fellowship【博士后引进计划】          <p align="right">2021</p> 
++ International Postdoctoral Exchange Fellowship【博士后引进计划】                     2021
 
-+ Shanghai “Super Postdoc” Incentive Plan 【上海超级博士后激励计划】       <p align="right">2021</p> 
++ Shanghai “Super Postdoc” Incentive Plan 【上海超级博士后激励计划】                    2021 
 
 ***
 
 #### the University of British Columbia
-+ President's Academic Excellence Initiative PhD Award                          <p align="right">2020, 2021</p>  
++ President's Academic Excellence Initiative PhD Award                            2020, 2021
 
-+ International Doctoral Fellowship                                                      <p align="right">2017-2021</p>          
++ International Doctoral Fellowship                                               2017-2021   
 
-+ International Doctoral Fellowship Tuition Award                                       <p align="right">2017-2021</p>          
++ International Doctoral Fellowship Tuition Award                                 2017-2021       
 
-+ International Tuition Award                                                                <p align="right">   2015-2017</p>                   
++ International Tuition Award                                                     2015-2017                 
 
-+ Faculty of Science Graduate Award                                                              <p align="right">   2015-2017</p>             
++ Faculty of Science Graduate Award                                               2015-2017             
 
 ***
 
 #### the Chinese University of Hong Kong
 
-+ First Class Graduate Honors                                                                            <p align="right">   2015</p>         
++ First Class Graduate Honors                                                     2015    
 
-+ Morningside College Master's List                                                            <p align="right">  2014-2015</p> 
++ Morningside College Master's List                                               2014-2015
 
-+ Science Faculty Dean's List                                                                      <p align="right">  2014-2015</p> 
++ Science Faculty Dean's List                                                     2014-2015
 
-+ Morningside College Exchange Scholarship                                                     <p align="right">  2013</p> 
++ Morningside College Exchange Scholarship                                        2013
 
-+ Wei Lun Exchange Scholarships                                                                    <p align="right">  2013</p> 
++ Wei Lun Exchange Scholarships                                                   2013
 
-+ Weishan Lake Academic Scholarship                                                      <p align="right"> 2012, 2013</p> 
++ Weishan Lake Academic Scholarship                                               2012, 2013
 
 
 
