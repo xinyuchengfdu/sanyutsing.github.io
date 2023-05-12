@@ -37,9 +37,9 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 
  1. Energy stable semi-implicit schemes for the 2D Allen-Cahn and fractional Cahn-Hilliard equations, [preprint](/file/A_5_May4_23.pdf). 
  
- 2. Energy stable semi-implicit schemes for the 3D Allen-Cahn equation, [preprint](/file/B_5_May9_23.pdf)
+ 2. Energy stable semi-implicit schemes for the 3D Allen-Cahn equation, [preprint](/file/B_5_May9_23.pdf).
  
- 3. Second order energy stable semi-implicit schemes for the 2D Allen-Cahn equation, [preprint](/file/C_2_May9_23.pdf)
+ 3. Second order energy stable semi-implicit schemes for the 2D Allen-Cahn equation, [preprint](/file/C_2_May9_23.pdf).
  
  4. On a Sinc-type MBE model, joint with D. Li, C. Quan and W. Yang, submitted. [ArXiv:2106.16193.](https://arxiv.org/abs/2106.16193) 
 
