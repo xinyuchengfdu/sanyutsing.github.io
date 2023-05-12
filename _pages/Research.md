@@ -35,21 +35,28 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 
 #### preprints
 
- 1. Energy stable semi-implicit schemes for Allen-Cahn and fractional Cahn-Hilliard equations, [preprint](/file/semi_implicit 8.pdf). (47 pages)
-
- 2. On a Sinc-type MBE model, joint with D. Li, C. Quan and W. Yang, submitted. [ArXiv:2106.16193.](https://arxiv.org/abs/2106.16193) 
-
- 3. Uniform Boundedness of Highest Norm for 2D Quasilinear Wave,  joint with D. Li and J. Xu, submitted. [ArXiv:2104.10019.](https://arxiv.org/abs/2104.10019)
-
- 4. Stability analysis of BDF methods for gradient flows with $L^2$-bounded nonlinearity, joint with D. Li, C. Quan and W. Yang, preprint.
-
- 5. Energy stability and convergence of Strang splitting method for Cahn-Hilliard equation, joint with D. Li and C. Quan, preprint.
+ 1. Energy stable semi-implicit schemes for the 2D Allen-Cahn and fractional Cahn-Hilliard equations, [preprint](/file/A_5_May4_23.pdf). 
  
- 6. Global well-posedness for 2D quasilinear wave equations with non-compactly supported initial data, joint with D. Li, Y. Lu and J. Xu, preprint. 
-
- 7. On the global well-posedness and scattering of the 3D Klein-Gordon-Zakharov system, joint with J. Xu, submitted. [ArXiv:2210.13786.](https://arxiv.org/abs/2210.13786)
+ 2. Energy stable semi-implicit schemes for the 3D Allen-Cahn equation, [preprint](/file/B_5_May9_23.pdf)
  
- 8. Localization for general Helmholtz, joint with D. Li and W. Yang, [arXiv:2210.03309.](https://arxiv.org/abs/2210.03309)
+ 3. Second order energy stable semi-implicit schemes for the 2D Allen-Cahn equation, [preprint](/file/C_2_May9_23.pdf)
+ 
+ 4. On a Sinc-type MBE model, joint with D. Li, C. Quan and W. Yang, submitted. [ArXiv:2106.16193.](https://arxiv.org/abs/2106.16193) 
+
+ 5. Uniform Boundedness of Highest Norm for 2D Quasilinear Wave,  joint with D. Li and J. Xu, submitted. [ArXiv:2104.10019.](https://arxiv.org/abs/2104.10019)
+
+ 6. Stability analysis of BDF methods for gradient flows with $L^2$-bounded nonlinearity, joint with D. Li, C. Quan and W. Yang, preprint.
+
+ 7. Energy stability and convergence of Strang splitting method for Cahn-Hilliard equation, joint with D. Li and C. Quan, preprint.
+ 
+ 8. Global well-posedness for 2D quasilinear wave equations with non-compactly supported initial data, joint with D. Li, Y. Lu and J. Xu, preprint. 
+
+ 9. On the global well-posedness and scattering of the 3D Klein-Gordon-Zakharov system, joint with J. Xu, submitted. [ArXiv:2210.13786.](https://arxiv.org/abs/2210.13786)
+ 
+ 10. Localization for general Helmholtz, joint with D. Li and W. Yang, [arXiv:2210.03309.](https://arxiv.org/abs/2210.03309)
+ 
+ 11. Small global solutions to a two dimensional wave-Klein-Gordon system, preprint.
+
 
  
 ## Academic activities
