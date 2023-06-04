@@ -19,6 +19,10 @@ header:
 + [EX7](/file/teaching/EX7.pdf), [Ans7](/file/teaching/Ans7.pdf)
 + [EX8](/file/teaching/EX8.pdf), [Ans8](/file/teaching/Ans8.pdf)
 + [EX9](/file/teaching/EX9.pdf), [Ans9](/file/teaching/EX9answer(1).pdf)
++ [Ex10](/file/teaching/EX10.pdf),[Ans10](/file/teaching/EX10answer(1).pdf)
++ [Ex11](/file/teaching/EX11.pdf),[Ans11](/file/teaching/EX11answer.pdf)
++ [Ex12](/file/teaching/EX12.pdf),[Ans12](/file/teaching/EX12answer.pdf)
++ [Ex13](/file/teaching/EX13.pdf),[Ans13](/file/teaching/Ans13.pdf)
 
 
 
