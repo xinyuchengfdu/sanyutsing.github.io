@@ -49,7 +49,7 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 
  7. Stability analysis of BDF methods for gradient flows with $L^2$-bounded nonlinearity, joint with D. Li, C. Quan and W. Yang, preprint.
 
- 8. Energy stability and convergence of Strang splitting method for Cahn-Hilliard equation, joint with D. Li and C. Quan, preprint.
+ 8. Energy stability and convergence of Strang splitting method for Cahn-Hilliard equation, joint with D. Li, preprint.
  
  9. Global well-posedness for 2D quasilinear wave equations with non-compactly supported initial data, joint with D. Li and J. Xu, preprint. 
 
