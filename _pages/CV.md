@@ -20,11 +20,11 @@ header:
 ### Postdoc Fellow: School of Mathematical Sciences, Fudan University                                  2021-2023
 
 Host: Prof. Lei, Zhen.
-
+***
 
 ## Education 
 
-#### Phd in Mathematics: the University of British Columbia                            2017-2021
+### Phd in Mathematics: the University of British Columbia                            2017-2021
 
 Area: Analysis, dynamics and numerics in PDEs
 
@@ -38,7 +38,7 @@ Advisers: Prof. Li, Dong & Prof. Wetton, Brian
 
 
 
-#### Msc in Mathematics: the University of British Columbia                             2015-2017
+### Msc in Mathematics: the University of British Columbia                             2015-2017
 
 Area: Analysis, dynamics and numerics in PDEs
 
@@ -50,7 +50,7 @@ Advisers: Prof. Li, Dong & Prof. Wetton, Brian
 ***
 
 
-#### Bsc in Mathematics with Honors, First Class: the Chinese University of Hong Kong   2011-2015
+### Bsc in Mathematics with Honors, First Class: the Chinese University of Hong Kong   2011-2015
 
 Areas: Computational & Applied Maths; Enrichment Stream in Maths.
 
@@ -63,7 +63,7 @@ Project on the [hyperbolic geometry](/file/hyperbolic_geometry.pdf) advised by P
 
 ##  Honors and awards
 
-#### Fudan University
+### Fudan University
 + China Postdoctoral Science Special Fund(In-Station)    【博士后基金（站中）】         2022  
             
 + China Postdoctoral Science Fund   【博士后基金（面上）】                              2022
@@ -74,7 +74,7 @@ Project on the [hyperbolic geometry](/file/hyperbolic_geometry.pdf) advised by P
 
 ***
 
-#### the University of British Columbia
+### the University of British Columbia
 + President's Academic Excellence Initiative PhD Award                            2020, 2021
 
 + International Doctoral Fellowship                                               2017-2021   
@@ -87,7 +87,7 @@ Project on the [hyperbolic geometry](/file/hyperbolic_geometry.pdf) advised by P
 
 ***
 
-#### the Chinese University of Hong Kong
+### the Chinese University of Hong Kong
 
 + First Class Graduate Honors                                                     2015    
 
