@@ -13,10 +13,11 @@ header:
 
 ## Working experience
 
-#### Young Principal Investigator: Research Institute of Intelligent Complex Systems, Fudan University  2023-present
+### Young Principal Investigator: Research Institute of Intelligent Complex Systems, Fudan University  2023-present
 
+***
 
-#### Postdoc Fellow: School of Mathematical Sciences, Fudan University                                  2021-2023
+### Postdoc Fellow: School of Mathematical Sciences, Fudan University                                  2021-2023
 
 Host: Prof. Lei, Zhen.
 
