@@ -11,9 +11,19 @@ header:
 
 ### My CV has been attached: [CV](/file/cv.pdf), [CV（中文版）](/file/cv_中文.pdf) as 2023/10
 
+## Working experience
+
+#### Young Principal Investigator: Research Institute of Intelligent Complex Systems, Fudan University  2023-present
+
+
+#### Postdoc Fellow: School of Mathematical Sciences, Fudan University                                  2021-2023
+
+Host: Prof. Lei, Zhen.
+
+
 ## Education 
 
-#### Phd in Mathematics: the University of British Columbia
+#### Phd in Mathematics: the University of British Columbia                            2017-2021
 
 Area: Analysis, dynamics and numerics in PDEs
 
@@ -27,7 +37,7 @@ Advisers: Prof. Li, Dong & Prof. Wetton, Brian
 
 
 
-#### Msc in Mathematics: the University of British Columbia
+#### Msc in Mathematics: the University of British Columbia                             2015-2017
 
 Area: Analysis, dynamics and numerics in PDEs
 
@@ -39,7 +49,7 @@ Advisers: Prof. Li, Dong & Prof. Wetton, Brian
 ***
 
 
-#### Bsc in Mathematics with Honors, First Class: the Chinese University of Hong Kong  
+#### Bsc in Mathematics with Honors, First Class: the Chinese University of Hong Kong   2011-2015
 
 Areas: Computational & Applied Maths; Enrichment Stream in Maths.
 
