@@ -63,6 +63,8 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
  
 ## Academic activities
 #### talks
++“面向未来的复杂系统科学--交叉与融合”学者讲习班 @ IICS, Fudan University     2023/11
+
 + Seminar talk @ Institute of Mathematical Sciences, ShangTech University   2023/11
 
 + CSIAM 2022 @ Guangzhou, Guangdong, China                                                               2022/09
