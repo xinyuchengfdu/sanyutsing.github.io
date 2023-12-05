@@ -55,9 +55,9 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 
  10. On the global well-posedness and scattering of the 3D Klein-Gordon-Zakharov system, joint with J. Xu, submitted. [ArXiv:2210.13786.](https://arxiv.org/abs/2210.13786)
  
- 11. Localization for general Helmholtz, joint with D. Li and W. Yang, [arXiv:2210.03309.](https://arxiv.org/abs/2210.03309)
+ 11. Localization for general Helmholtz, joint with D. Li and W. Yang, [arXiv:2210.03309.](https://arxiv.org/abs/2210.03309).
  
- 12. Small global solutions to a two dimensional wave-Klein-Gordon system, preprint.
+ 12. Global well-posedness of a two dimensional wave-Klein-Gordon system with small non-compactly supported data, [ArXiv:2312.00821](https://arxiv.org/abs/2312.00821).
 
 
  
