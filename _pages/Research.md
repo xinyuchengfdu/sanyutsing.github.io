@@ -32,7 +32,7 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 
  7. Equivalent formulations of the oxygen diffusion problem and other implicit free boundary value problems and implications for numerical approximation, joint with Z. Fu and B. Wetton, Siam J. Appl. Math., 2023, 83(1), 52-78.[pdf](/file/paper/CFW23.pdf)
 
-8. On the global well-posedness and scattering of the 3D Klein-Gordon-Zakharov system, joint with J. Xu, to appear in Calc. Var. Part. Differ. Eqn. [ArXiv:2210.13786.](https://arxiv.org/abs/2210.13786)
+8. On the global well-posedness and scattering of the 3D Klein-Gordon-Zakharov system, joint with J. Xu, to appear in Calc. Var. Part. Differ. Eqn. [pdf](/file/paper/CX23.pdf)
 
 #### preprints
 
@@ -64,6 +64,8 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 #### talks
 + “面向未来的复杂系统科学--交叉与融合”学者讲习班 @ IICS, Fudan University     2023/11
 
++ Seminar talk @ School of Mathematics, South China University of Technology   2023/07
+
 + Seminar talk @ Institute of Mathematical Sciences, ShangTech University   2023/11
 
 + CSIAM 2022 @ Guangzhou, Guangdong, China                                                               2022/09
@@ -75,6 +77,9 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 
 
 #### visiting
+
+* South China University of Technology, Guangzhou, China
+  2023/06-2023/07
 
 * SUSTech, Shenzhen, China                                                                                         2021/10-2022/01
 
