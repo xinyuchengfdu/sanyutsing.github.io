@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-### My CV has been attached: [CV](/file/cv.pdf), [CV（中文版）](/file/cv_中文.pdf) as 2023/10
+### My CV has been attached: [CV](/file/CV_EN.pdf), [CV（中文版）](/file/CV_CN.pdf) as 2023/12
 
 ## Working experience
 
