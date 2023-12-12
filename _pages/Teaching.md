@@ -9,7 +9,16 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-## I am teaching two tutorial classes on Linear Algebra II in 2022-2023 term 2.
+
+
+## I am not teaching in 2023-2024 term 1.
+
+
+## This is my [teaching statement.](/file/teaching_statement.pdf)
+
+## Previous teaching expierences:
+
+### I taught two tutorial classes on Linear Algebra II in 2022-2023 term 2.
 + [EX1](/file/teaching/EX1.pdf), [Ans1](/file/teaching/Ans1.pdf)
 + [EX2](/file/teaching/EX2.pdf), [Ans2](/file/teaching/Ans2.pdf)
 + [EX3](/file/teaching/EX3.pdf), [Ans3](/file/teaching/Ans3.pdf)
@@ -25,13 +34,6 @@ header:
 + [Ex13](/file/teaching/EX13.pdf),[Ans13](/file/teaching/Ans13.pdf)
 
 
-
-## This is my [teaching statement.](/file/teaching_statement.pdf)
-
-## Previous teaching expierences:
-
-
-+ I taught MATH110/001 Differential Calculus at UBC, Sep 2018.
-
-+ I was a teaching assistant  at UBC in 2015--2021.
+### I taught MATH110/001 Differential Calculus at UBC, Sep 2018.
+### I was a teaching assistant  at UBC in 2015--2021.
 
