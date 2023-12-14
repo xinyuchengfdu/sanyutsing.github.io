@@ -12,7 +12,7 @@ header:
 
 I am currently a young principal investigator at the [Research Institute of Intelligent Complex Systems](https://iics.fudan.edu.cn/) at Fudan University, Shanghai, China.
 
-I was a postdoc fellow at [the School of Mathematical Sciences at Fudan University](https://math.fudan.edu.cn/), Shanghai, China,  under the host of Prof. [Lei, Zhen](https://math.fudan.edu.cn/fa/43/c30607a326211/page.htm).
+I was a postdoc fellow at [the School of Mathematical Sciences at Fudan University](https://math.fudan.edu.cn/), Shanghai, China.
 
 ---
 
