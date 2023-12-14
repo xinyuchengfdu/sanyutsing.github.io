@@ -16,7 +16,7 @@ I was a postdoc fellow at [the School of Mathematical Sciences at Fudan Universi
 
 ---
 
-I received my Phd degree and Msc degree in Mathematics from [the University of British Columbia](https://www.math.ubc.ca/), Vancouver, Canada, under the supervision of Prof. [Li, Dong](https://hkumath.hku.hk/MathWWW/people.php?faculty.dl) and Prof. [Wetton, Brian](https://personal.math.ubc.ca/~wetton/).
+I received my Phd degree and Msc degree in Mathematics from [the University of British Columbia](https://www.math.ubc.ca/), Vancouver, Canada.
 
 ---
 
