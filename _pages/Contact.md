@@ -10,14 +10,14 @@ header:
 ---
 
 ## Address 地址
-Room 2004, Guanghua Tower  复旦大学邯郸校区光华楼东主楼2004室
+Room 406, No.5 Building, 220 Handan Road  复旦大学邯郸校区5号楼406室
 
 ## Personal Page 个人主页
 [https://sites.google.com/view/xycheng](https://sites.google.com/view/xycheng)
 
 
 ## Email
-xycheng[at]fudan.edu.cn
+xycheng[at]fudan[dot]edu[dot]cn
 
 ## Links
 
