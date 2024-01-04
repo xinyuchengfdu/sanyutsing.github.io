@@ -13,4 +13,4 @@ header:
 
 ## Photo gallery
 
-In this page I will present photos
+
