@@ -36,7 +36,7 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 
 #### preprints
 
- 1. Unconditionally stable exponential integrator schemes for the 2D Cahn-Hilliard equation, [preprint].
+ 1. Unconditionally stable exponential integrator schemes for the 2D Cahn-Hilliard equation, [ArXiv:2312.15656](https://arxiv.org/abs/2312.15656).
  
  2. Energy stable semi-implicit schemes for the 2D Allen-Cahn and fractional Cahn-Hilliard equations, [preprint]. 
  
@@ -48,15 +48,13 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 
  6. Uniform Boundedness of Highest Norm for 2D Quasilinear Wave,  joint with D. Li and J. Xu, submitted. [ArXiv:2104.10019.](https://arxiv.org/abs/2104.10019)
 
- 7. Stability analysis of BDF methods for gradient flows with $L^2$-bounded nonlinearity, joint with D. Li, C. Quan and W. Yang, preprint.
-
- 8. Energy stability and convergence of Strang splitting method for Cahn-Hilliard equation, joint with D. Li, preprint.
+ 7. Energy stability and convergence of Strang splitting method for Cahn-Hilliard equation, joint with D. Li, preprint.
  
- 9. Global well-posedness for 2D quasilinear wave equations with non-compactly supported initial data, joint with D. Li and J. Xu, preprint. 
+ 8. Global well-posedness for 2D quasilinear wave equations with non-compactly supported initial data, joint with D. Li and J. Xu, preprint. 
  
- 10. Localization for general Helmholtz, joint with D. Li and W. Yang, [arXiv:2210.03309.](https://arxiv.org/abs/2210.03309).
+ 9. Localization for general Helmholtz, joint with D. Li and W. Yang, [arXiv:2210.03309.](https://arxiv.org/abs/2210.03309).
  
- 11. Global well-posedness of a two dimensional wave-Klein-Gordon system with small non-compactly supported data, [ArXiv:2312.00821](https://arxiv.org/abs/2312.00821).
+ 10. Global well-posedness of a two dimensional wave-Klein-Gordon system with small non-compactly supported data, [ArXiv:2312.00821](https://arxiv.org/abs/2312.00821).
 
 
  
