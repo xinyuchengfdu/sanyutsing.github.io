@@ -34,7 +34,7 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 
 8. On the global well-posedness and scattering of the 3D Klein-Gordon-Zakharov system, joint with J. Xu, Calc. Var. Part. Differ. Eqn., 63(17), 2024. [pdf](/file/paper/CX23.pdf)
 
-9. Localization for general Helmholtz}, joint with D. Li and W. Yang, to appear in J. Diff. Eqn. [pdf](/file/paper/CLY24.pdf)
+9. Localization for general Helmholtz, joint with D. Li and W. Yang, to appear in J. Diff. Eqn. [pdf](/file/paper/CLY24.pdf)
 
 #### preprints
 
