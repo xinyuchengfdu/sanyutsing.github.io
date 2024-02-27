@@ -32,7 +32,9 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 
  7. Equivalent formulations of the oxygen diffusion problem and other implicit free boundary value problems and implications for numerical approximation, joint with Z. Fu and B. Wetton, Siam J. Appl. Math., 2023, 83(1), 52-78.[pdf](/file/paper/CFW23.pdf)
 
-8. On the global well-posedness and scattering of the 3D Klein-Gordon-Zakharov system, joint with J. Xu, to appear in Calc. Var. Part. Differ. Eqn. [pdf](/file/paper/CX23.pdf)
+8. On the global well-posedness and scattering of the 3D Klein-Gordon-Zakharov system, joint with J. Xu, Calc. Var. Part. Differ. Eqn., 63(17), 2024. [pdf](/file/paper/CX23.pdf)
+
+9. Localization for general Helmholtz}, joint with D. Li and W. Yang, to appear in J. Diff. Eqn. [pdf](/file/paper/CLY24.pdf)
 
 #### preprints
 
@@ -52,9 +54,7 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
  
  8. Global well-posedness for 2D quasilinear wave equations with non-compactly supported initial data, joint with D. Li and J. Xu, preprint. 
  
- 9. Localization for general Helmholtz, joint with D. Li and W. Yang, [arXiv:2210.03309.](https://arxiv.org/abs/2210.03309).
- 
- 10. Global well-posedness of a two dimensional wave-Klein-Gordon system with small non-compactly supported data, [ArXiv:2312.00821](https://arxiv.org/abs/2312.00821).
+ 9. Global well-posedness of a two dimensional wave-Klein-Gordon system with small non-compactly supported data, [ArXiv:2312.00821](https://arxiv.org/abs/2312.00821).
 
 
  
