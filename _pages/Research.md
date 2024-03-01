@@ -59,18 +59,20 @@ My interest is on the mathematical and numerical analysis of PDEs including phas
 
  
 ## Academic activities
-#### talks
-+ “面向未来的复杂系统科学--交叉与融合”学者讲习班 @ IICS, Fudan University     2023/11
+#### conferences and talks 
++ 三亚波国际前沿论坛@清华三亚国际数学论坛                                                                     2024/01
 
-+ Seminar talk @ School of Mathematics, South China University of Technology   2023/07
++ “面向未来的复杂系统科学--交叉与融合”学者讲习班 @ IICS, Fudan University                                      2023/11
 
-+ Seminar talk @ Institute of Mathematical Sciences, ShangTech University   2023/11
++ Seminar talk @ Institute of Mathematical Sciences, ShangTech University                               2023/11
+
++ Seminar talk @ School of Mathematics, South China University of Technology                             2023/07
 
 + CSIAM 2022 @ Guangzhou, Guangdong, China                                                               2022/09
 
-+ Workshop on Analysis and PDE @ Tianjin Center for Applied Mathematics (TCAM)       2019/08
++ Workshop on Analysis and PDE @ Tianjin Center for Applied Mathematics (TCAM)                           2019/08
 
-+ SIAM Conference on Applications of Dynamical Systems @ Snowbird, UT, US                2019/05
++ SIAM Conference on Applications of Dynamical Systems @ Snowbird, UT, US                                2019/05
 
 
 
