@@ -136,7 +136,7 @@ author:
   researchgate     : "Xinyu-Cheng-4"
   arXiv            : "cheng_x_1"
   google_scholar   : "citations?user=J-yb-60AAAAJ&hl=zh-CN"
-  orcid            : "0000-0003-1330-3978"
+  orcid            : #"0000-0003-1330-3978"
 
  
   #  - label: "researchgate"
