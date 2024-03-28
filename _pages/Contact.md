@@ -21,8 +21,9 @@ xycheng[at]fudan[dot]edu[dot]cn
 
 ## Links
 
-+ [Google Scholar](https://scholar.google.com/citations?user=J-yb-60AAAAJ&hl=zh-CN)
++ <i class="fab fa-fw fa-Google"></i>[Google Scholar](https://scholar.google.com/citations?user=J-yb-60AAAAJ&hl=zh-CN)
 + [Researchgate](https://www.researchgate.net/profile/Xinyu-Cheng-4)
 + [arXiv](https://arxiv.org/a/cheng_x_1.html)
++ [Orcid](https://orcid.org/0000-0003-1330-3978)
 + [Mathgenealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=276991)
 + [Xinyu@UBC](https://www.grad.ubc.ca/campus-community/meet-our-students/cheng-xinyu)
