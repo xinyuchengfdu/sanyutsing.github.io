@@ -21,13 +21,9 @@ xycheng[at]fudan[dot]edu[dot]cn
 
 ## Links
 
-<i class="fab fa-fw fa-google-scholar"></i>[Google Scholar](https://scholar.google.com/citations?user=J-yb-60AAAAJ&hl=zh-CN) 
-<i class="fab fa-fw fa-researchgate"></i>[Researchgate](https://www.researchgate.net/profile/Xinyu-Cheng-4)
- 
- <i class="fab fa-fw fa-box-archive"></i>[arXiv](https://arxiv.org/a/cheng_x_1.html)
- 
- <i class="fa-brands fa-orcid"></i>[Orcid](https://orcid.org/0000-0003-1330-3978)
-
-<i class="fab fa-fw fa-link"></i> [Mathgenealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=276991)
-
- <i class="fab fa-fw fa-link"></i>[Xinyu@UBC](https://www.grad.ubc.ca/campus-community/meet-our-students/cheng-xinyu)
++[Google Scholar](https://scholar.google.com/citations?user=J-yb-60AAAAJ&hl=zh-CN) 
++[Researchgate](https://www.researchgate.net/profile/Xinyu-Cheng-4)
++[arXiv](https://arxiv.org/a/cheng_x_1.html)
++[Orcid](https://orcid.org/0000-0003-1330-3978)
++[Mathgenealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=276991)
++[Xinyu@UBC](https://www.grad.ubc.ca/campus-community/meet-our-students/cheng-xinyu)
