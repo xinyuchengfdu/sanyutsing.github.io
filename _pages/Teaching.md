@@ -11,7 +11,7 @@ header:
 
 
 
-## I am not teaching in 2023-2024 term 1.
+## I am not teaching in 2023-2024 term 2.
 
 
 ## This is my [teaching statement.](/file/teaching_statement.pdf)
