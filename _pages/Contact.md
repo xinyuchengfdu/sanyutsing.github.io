@@ -13,7 +13,7 @@ header:
 Room 406, No.5 Building, 220 Handan Road  复旦大学邯郸校区5号楼406室
 
 ## Personal Page 个人主页
-[https://sites.google.com/view/xycheng](https://sites.google.com/view/xycheng)
+[https://sites.google.com/view/xycheng](https://sites.google.com/view/xycheng) This personal page is no longer updated.
 
 
 ## Email
