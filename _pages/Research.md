@@ -11,7 +11,7 @@ header:
 
 ## Research Interest
 
-My interest is on the mathematical and numerical analysis of PDEs including phase field models, free boundary problems and fluid models. This is my [research statement.](/file/research_statement.pdf) 
+My interest is on the mathematical analysis of PDEs and applied mathematics including interfacial change, free boundary and fluid models. This is my [research statement.](/file/research_statement.pdf) 
 
 
 ## Publications and preprints
