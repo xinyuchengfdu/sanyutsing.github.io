@@ -1,6 +1,6 @@
 ---
 title: 'Xinyu Cheng 程新宇'
-layout: single
+layout: home
 author_profile: true
 excerpt: ''
 header:
