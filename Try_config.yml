@@ -12,25 +12,23 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    :  "dark"  #"dirt" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark"  #"default" , "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Xinyu's Site"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "|"
 name                     : "Xinyu Cheng"
 description              : "PDE/Analysis/Numerics"
-url                      : # the base hostname & protocol for your site e.g. 
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -40,25 +38,27 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
-  utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
-  giscus:
-    repo_id              : # Shown during giscus setup at https://giscus.app
-    category_name        : # Full text name of the category
-    category_id          : # Shown during giscus setup at https://giscus.app
-    discussion_term      : # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
-  staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+staticman:
+  allowedFields          : # ['name', 'email', 'url', 'message']
+  branch                 : # "master"
+  commitMessage          : # "New comment."
+  filename               : # comment-{@timestamp}
+  format                 : # "yml"
+  moderation             : # true
+  path                   : # "/_data/comments/{options.slug}" (default)
+  requiredFields         : # ['name', 'email', 'message']
+  transforms:
+    email                : # "md5"
+  generatedFields:
+    date:
+      type               : # "date"
+      options:
+        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  path                   : "https://sites.google.com/view/xycheng/" # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  path                   : https://sites.google.com/view/xycheng/ # blank (default) uses feed.xml
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -93,7 +93,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
@@ -104,37 +104,54 @@ author:
   name             : "Xinyu Cheng"
   avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PDE/Analysis/Numerics"
-  location         : "Shanghai, China"
-  #email            :
-  links:
-     - label: "researchgate"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.researchgate.net/profile/Xinyu-Cheng-4" 
-    - label: "arXiv"
-      icon:  "fab fa-fw fa-archive"
-      url: "https://arxiv.org/a/cheng_x_1.html"
-    - label: "google_scholar"
-      icon: "fab fa-fw fa-link"
-      url: "https://scholar.google.com/citations?user=J-yb-60AAAAJ&hl=zh-CN"
-    - label: "Fudan University"
-      icon: "fa fa-fw fa-university"
-      url: "https://www.fudan.edu.cn/en/"
-   - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:xycheng at fudan dot edu dot cn"
-   
-    #- label: "500px"
-     # icon: "fab fa-fw fa-500px"
-      # url: "500px.com/zfzhu"
+  location         : "Shanghai - China"
+  email            : "xycheng AT fudan DOT edu DOT cn"
+  uri              :
+  home             : "https://sites.google.com/view/xycheng" # null (default), "absolute or relative url to link to author home"
+ 
+      
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "sanyutsing"
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : #"rafaelcartenet" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : #"c" # (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  researchgate     : "Xinyu-Cheng-4"
+  arXiv            : "cheng_x_1"
+  google_scholar   : "citations?user=J-yb-60AAAAJ&hl=zh-CN"
+  orcid            : #"0000-0003-1330-3978"
 
-# Site Footer
-#footer:
-  #links:
-   # - label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-     # url: "test1"
-
-
+ 
+  #  - label: "researchgate"
+  #    icon: "fas fa-fw fa-link"
+  #    url: "https://www.researchgate.net/profile/Xinyu-Cheng-4" 
+  #  - label: "arXiv"
+  #    icon: "fab fa-fw fa-link"   #"fab fa-fw fa-archive"
+  #    url: "https://arxiv.org/a/cheng_x_1.html"
+  #  - label: "google_scholar"
+  #    icon: "fab fa-fw fa-link"
+  #    url: "https://scholar.google.com/citations?user=J-yb-60AAAAJ&hl=zh-CN"
+  #  - label: "Fudan University"
+  #    icon: "fa fa-fw fa-university"
+  #    url: "https://www.fudan.edu.cn/en/"
+    
 # Reading Files
 include:
   - .htaccess
@@ -142,6 +159,8 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - "blog.md"
+  - "project.md"
   - vendor
   - .asset-cache
   - .bundle
@@ -166,6 +185,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - Try_config.yml
 keep_files:
   - .git
   - .svn
@@ -196,12 +216,12 @@ kramdown:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 7 # amount of posts to show
+paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -212,7 +232,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jekyll-include-cache
+  - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -220,7 +240,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jekyll-include-cache
+  - jemoji
 
 
 # Archives
@@ -231,8 +251,8 @@ whitelist:
 #  - Archive page should exist at path when using Liquid method or you can
 #    expect broken links (especially with breadcrumbs enabled)
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path>/my-awesome-category/index.html ~> path: /
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
@@ -253,7 +273,7 @@ tag_archive:
 
 
 # HTML Compression
-# - https://jch.penibelst.de/
+# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
