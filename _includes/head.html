@@ -17,9 +17,9 @@
 
 <!--<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">-->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" id="theme_source">
-<link rel="stylesheet alternate" href="{{'/assets/css/theme2.css'| relative_url}}" id="theme_source_2">
-
- <script>
+{% if site.minimal_mistakes_skin2 %}
+  <link rel="stylesheet alternate" href="{{ '/assets/css/theme2.css' | relative_url }}" id="theme_source_2">
+  <script>
     let theme = sessionStorage.getItem('theme');
     if(theme === "dark")
     {
@@ -34,6 +34,7 @@
       sessionStorage.setItem('theme', 'light');
     }
   </script>
+{% endif %}
 
 <!--[if lte IE 9]>
   <style>
