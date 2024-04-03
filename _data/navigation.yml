@@ -9,7 +9,7 @@ main:
   - title: "Contact 联系方式"
     url: /Contact/
   - title: "About"
-    url: https://sanyutsing.github.io
+    url: /
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Collections"
